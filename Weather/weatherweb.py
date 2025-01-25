@@ -106,9 +106,9 @@ with container:
         elif weather == 'Snow':
             col1.image("https://openweathermap.org/img/wn/13d@2x.png", width=80)
     with col2:
-        col2.image("wind.png", width=80)
+        col2.image("Weather-app/Weather/wind.png", width=80)
     with col3:
-        col3.image("humidity.png", width=80)
+        col3.image("Weather-app/Weather/humidity.png", width=80)
 
 
 
